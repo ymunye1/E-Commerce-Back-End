@@ -58,7 +58,7 @@ npm run seed
 npm start
 ```
 
-## Screenshots  ## Gif of my work
+## Screenshots 
 
 The following animation shows the application's GET routes to return all categories, all products, and all tags being tested in Postman:
 

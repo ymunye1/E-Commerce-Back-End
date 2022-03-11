@@ -9,7 +9,7 @@ You’ll configure a working Express.js API to use Sequelize to interact with a 
 
 
 - [Links](#links)
-- [UserStory](#UserStory)
+- [User-Story](#User-Story)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Screenshots](#screenshots)
@@ -23,7 +23,7 @@ To my video using screencastify part 2 https://drive.google.com/file/d/1iKdInnNZ
 My github code link for program https://github.com/ymunye1/E-Commerce-Back-End
 
 
-## User Story
+## User-Story
 
 ```md
 AS A manager at an internet retail company

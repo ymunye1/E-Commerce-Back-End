@@ -1,7 +1,7 @@
 # 13 Object-Relational Mapping (ORM): E-Commerce Back End
 ## Description
 E-Commerce back end that utilizes C.R.U.D. methods
-You’ll configure a working Express.js API to use Sequelize to interact with a MySQL database.
+I configured a working Express.js API to use Sequelize to interact with a MySQL database.
 
 ## [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -18,7 +18,7 @@ You’ll configure a working Express.js API to use Sequelize to interact with a 
 
 
 ## Links
-To my video using screencastify part 1 https://drive.google.com/file/d/1tABwM8GOaNjJNLL-tXJe3bEF_SbAaox5/view
+To my video using screencastify part 1 https://drive.google.com/file/d/1tABwM8GOaNjJNLL-tXJe3bEF_SbAaox5/view 
 To my video using screencastify part 2 https://drive.google.com/file/d/1iKdInnNZJlo_H1SxVbOEZoN_guFIQyJB/view
 My github code link for program https://github.com/ymunye1/E-Commerce-Back-End
 

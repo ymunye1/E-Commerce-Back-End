@@ -9,7 +9,7 @@ You’ll configure a working Express.js API to use Sequelize to interact with a 
 
 
 - [Links](#links)
-- [UserStory](#User Story)
+- [UserStory](#UserStory)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Screenshots](#screenshots)
